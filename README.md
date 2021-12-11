@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Stylesoftware
+- 👀 I’m interested in C, JS, Electron, ESP, FPGA, Arduino, SBC's and HP laptops that don't break their hinges after a year.
+- 🌱 I’m currently learning Mongo native in node and hotgluing HP laptop hinges.
